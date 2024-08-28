@@ -1,0 +1,5 @@
+# Ignore List
+
+.zcompdump*
+.zsh_history
+lazy-lock.json
